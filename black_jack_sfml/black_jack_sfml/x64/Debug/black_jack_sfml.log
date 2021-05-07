@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\black_jack_sfml\black_jack_sfml\main.cpp(8): warning C4129: i: неизвестная escape-последовательность
+d:\black_jack_sfml\black_jack_sfml\main.cpp(9): warning C4129: i: неизвестная escape-последовательность
+d:\black_jack_sfml\black_jack_sfml\main.cpp(10): warning C4129: i: неизвестная escape-последовательность
+d:\black_jack_sfml\black_jack_sfml\main.cpp(11): warning C4129: i: неизвестная escape-последовательность
+  black_jack_sfml.vcxproj -> D:\black_jack_sfml\x64\Debug\black_jack_sfml.exe
